@@ -1,0 +1,4 @@
+name: agda-bialgebra-sorting
+depend: standard-library-1.7
+        agda-categories
+include: src/
